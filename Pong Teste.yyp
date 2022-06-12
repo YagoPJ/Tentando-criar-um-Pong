@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":2,},
+    {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":0,},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
+    {"id":{"name":"spr_padle","path":"sprites/spr_padle/spr_padle.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -31,6 +35,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Pong - Assets.yy","order":15,"resourceVersion":"1.0","name":"Pong - Assets","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
