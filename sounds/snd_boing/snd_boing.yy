@@ -12,10 +12,10 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_boing.ogg",
-  "duration": 0.0,
+  "duration": 1.2,
   "parent": {
-    "name": "Pong - Assets",
-    "path": "folders/Pong - Assets.yy",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_boing",
