@@ -4,3 +4,4 @@
 show_message("Game Over!");
 x = 320;
 y = 256;
+speed = 5;

@@ -4,3 +4,7 @@ if (y < 416)
 {	
 	y = y + 5;
 }
+
+//tirando auto
+
+automatico = false;
